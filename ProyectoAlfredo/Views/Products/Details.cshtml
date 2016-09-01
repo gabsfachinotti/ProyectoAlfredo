@@ -1,0 +1,90 @@
+﻿@model ProyectoAlfredo.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchasePrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PurchasePrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalePrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalePrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastPurchase)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastPurchase)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UploadDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UploadDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.minimum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.minimum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.State)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.State)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

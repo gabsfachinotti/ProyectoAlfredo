@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProyectoAlfredo.Models.ColdCuts" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ColdCuts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.Category" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.Customer" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAUAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ApplicationUser" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ApplicationDbContext" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.IndexViewModel" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAQAAAEAEA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ManageLoginsViewModel" Collapsed="true">
+    <Position X="13.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.FactorViewModel" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.SetPasswordViewModel" Collapsed="true">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ChangePasswordViewModel" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAEAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.AddPhoneNumberViewModel" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.VerifyPhoneNumberViewModel" Collapsed="true">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ConfigureTwoFactorViewModel" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ManageViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.NormalProduct" Collapsed="true">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\NormalProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.Product" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAQAACCAAkAAAAAABABAAAAACAAAAAAAAABAAACAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ProductProvider" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAEAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProductProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ProductPurchase" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQCAAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProductPurchase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ProductSale" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\ProductSale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.Provider" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAIAAQAAQ=</HashCode>
+      <FileName>Models\Provider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.Purchase" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAEAAQAAAAAAAAAAACAAAAAAAAAgAAAAAQ=</HashCode>
+      <FileName>Models\Purchase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.Sale" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAgAEAEAQ=</HashCode>
+      <FileName>Models\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ExternalLoginConfirmationViewModel" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ExternalLoginListViewModel" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.SendCodeViewModel" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAAIAAAAgAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.VerifyCodeViewModel" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAEAAAAAAAgAAAAAAAAAAAAAAIAAAAgAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ForgotViewModel" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.LoginViewModel" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAgAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.RegisterViewModel" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ResetPasswordViewModel" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgAAAAAAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoAlfredo.Models.ForgotPasswordViewModel" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
