@@ -45,7 +45,7 @@ namespace ProyectoAlfredo.Controllers
         {
             var purchaseView = new PurchaseView();
             purchaseView.Provider = new Provider();
-            purchaseView.Products = new List<Product>();
+            purchaseView.Products = new List<ProductDetail>();
                         
             ViewBag.ProviderID = new SelectList(_repository.ProviderList(), "ProviderID", "ProviderName");
 
